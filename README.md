@@ -1,0 +1,2 @@
+# simpleChatRoomOnlyClientToServer
+先运行Server,后运行Client,  目前能实现多人访问server，每个客户端发送文本给server，立即返回一个advice
